@@ -1,0 +1,13 @@
+------------POST------------
+https://127.0.0.1:5000/Filme
+----------------------------
+
+Body - raw - JSON
+
+{
+    "Título": Homem-Aranha Sem Volta Para Casa
+    "Gênero": Ação
+    "Duração": 148 minutos
+    "Ano": 2021
+    "Diretor": Jon Watts
+}
